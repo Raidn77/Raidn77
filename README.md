@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raidn77
-- 👀 I’m interested in IT, games and heavy metal!
+- 👀 I’m interested in IT, videogames and heavy metal!
 - 🌱 I’m currently learning JavaScript
 
 <!---
